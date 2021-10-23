@@ -1,0 +1,2 @@
+# discordsrv
+DISCORDSRV PLUGIN
